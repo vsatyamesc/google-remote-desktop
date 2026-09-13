@@ -1,4 +1,4 @@
-# google-remote-desktop
+# google-remote-desktop on Ubuntu 24 LTS, EC2 t3.small with memory swap
 
 ```
 #!/usr/bin/env bash
